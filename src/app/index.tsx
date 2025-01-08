@@ -120,7 +120,6 @@ export default function Home() {
                           <View className="flex-1 bg-red-500">
                             <View className="flex-1" />
                             <View className="h-9 w-9 items-center justify-center rounded-full bg-white/10">
-                              {/*{' '}*/}
                               <Text className="text-lg text-white">→</Text>
                             </View>
                           </View>
